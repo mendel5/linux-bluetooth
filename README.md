@@ -9,4 +9,4 @@ Overview of Bluetooth USB adapters for Linux
 
 ## Chipsets
 - TP-Link UB500 Nano USB Bluetooth 5.0 Adapter Dongle: Realtek `RTL8761B`
-- TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle: Cambridge Silicon `CSR8510`
+- TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle: Cambridge Silicon `CSR8510` <-- apparently this device adapter has Plug and Play
