@@ -1,6 +1,8 @@
 # linux-bluetooth
 Overview of Bluetooth USB adapters for Linux
 
+See also: https://github.com/mendel5/linux-wifi
+
 ## Links
 - https://www.amazon.de/gp/bestsellers/computers/430147031/
 - https://bbs.archlinux.org/viewtopic.php?id=270649
