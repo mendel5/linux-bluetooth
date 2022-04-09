@@ -12,4 +12,8 @@ See also: https://github.com/mendel5/linux-wifi
 
 ## Chipsets
 - TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle: Cambridge Silicon `CSR8510` <-- apparently this device adapter has Plug and Play
+  - https://geizhals.de/tp-link-ub400-a2090156.html
+  - https://www.amazon.de/dp/B07NQ5YGDW
 - TP-Link UB500 Nano USB Bluetooth 5.0 Adapter Dongle: Realtek `RTL8761B` --> see discussion in Arch Linux forum (link above)
+  - https://geizhals.de/tp-link-ub500-nano-a2611244.html
+  - https://www.amazon.de/dp/B098K3H92Z
