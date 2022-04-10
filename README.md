@@ -17,3 +17,4 @@ See also: https://github.com/mendel5/linux-wifi
 - TP-Link UB500 Nano USB Bluetooth 5.0 Adapter Dongle: Realtek `RTL8761B` --> see discussion in Arch Linux forum (link above)
   - https://geizhals.de/tp-link-ub500-nano-a2611244.html
   - https://www.amazon.de/dp/B098K3H92Z
+  - Plug and Play not working with Linux Mint 20.3, Kernel 5.13.0-39-generic
